@@ -1,2 +1,3 @@
 # Deep_learning
-Deep Learning
+
+This is first try solving MNIST. I know that is not so good, I will improve this solution in future. Work here(https://colab.research.google.com) 
